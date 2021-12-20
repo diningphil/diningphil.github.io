@@ -1,33 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Federico Errica</title>
     <link>https://diningphil.github.io/publication-type/1/</link>
       <atom:link href="https://diningphil.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://diningphil.github.io/publication-type/1/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://diningphil.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Robust Malware Classification via Deep Graph Networks on Call Graph Topologies</title>
+      <link>https://diningphil.github.io/publication/2021_esann/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_esann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Mixture Density Networks</title>
+      <link>https://diningphil.github.io/publication/2021_icml/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_icml/</guid>
+      <description>&lt;p&gt;Combining Deep Graph Networks with Mixture Density Networks to model multimodal output distributions conditioned on arbitrary input graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Matching for Low-Resource Classification</title>
+      <link>https://diningphil.github.io/publication/2021_ijcnn_parcus/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_ijcnn_parcus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Edge Features with Deep Bayesian Graph Networks</title>
+      <link>https://diningphil.github.io/publication/2021_ijcnn_ecgmm/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_ijcnn_ecgmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretically Expressive and Edge-aware Graph Learning</title>
+      <link>https://diningphil.github.io/publication/2020_esann/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_esann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fair Comparison of Graph Neural Networks for Graph Classification</title>
+      <link>https://diningphil.github.io/publication/2020_iclr/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_iclr/</guid>
+      <description>&lt;p&gt;A fair and robust evaluation of Deep Graph Networks for graph classification tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextual Graph Markov Model: a Deep and Generative Approach to Graph Processing</title>
+      <link>https://diningphil.github.io/publication/2018_icml/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2018_icml/</guid>
+      <description>&lt;p&gt;A deep, probabilistic, and scalable machine learning model for graphs. Work done as part of my master thesis.&lt;/p&gt;
 </description>
     </item>
     

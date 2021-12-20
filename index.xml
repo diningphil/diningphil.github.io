@@ -1,111 +1,229 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Federico Errica</title>
     <link>https://diningphil.github.io/</link>
       <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Federico Errica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>https://diningphil.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Federico Errica</title>
       <link>https://diningphil.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://diningphil.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Robust Malware Classification via Deep Graph Networks on Call Graph Topologies</title>
+      <link>https://diningphil.github.io/publication/2021_esann/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_esann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyDGN v0.5.0 is out!</title>
+      <link>https://diningphil.github.io/post/21_pydgn050/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/21_pydgn050/</guid>
+      <description>&lt;p&gt;We officially released the 0.5.0 version of our &lt;a href=&#34;https://github.com/diningphil/PyDGN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyDGN&lt;/a&gt; library! We have added a bunch of useful features, refactored the code, and fixed some bugs! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/numeroso/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Danilo Numeroso&lt;/a&gt; who implemented a very useful and flexible random search technique!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://diningphil.github.io/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
+      <title>NEC Labs Europe</title>
+      <link>https://diningphil.github.io/talk/nec-labs-europe/</link>
+      <pubDate>Wed, 21 Jul 2021 13:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/talk/nec-labs-europe/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
 
 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GMDN got accepted at ICML&#39;21!</title>
+      <link>https://diningphil.github.io/post/21_icml/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/21_icml/</guid>
+      <description>&lt;p&gt;Wonderful news! Our paper &amp;ldquo;Graph Mixture Density Networks&amp;rdquo; has been accepted at ICML 2021! Shout out to my supervisors &lt;a href=&#34;http://pages.di.unipi.it/micheli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alessio Micheli&lt;/a&gt; and &lt;a href=&#34;http://pages.di.unipi.it/bacciu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davide Bacciu&lt;/a&gt; that made this possible. We study the problem of learning multi-modal output distributions conditioned on arbitrary input graphs. With GMDN, we can predict if there&amp;rsquo;s more than one likely outcome associated with an input graph: this is especially useful, for example, when predicting the final outcome of a pandemic when the social network is known. We will release the camera ready very soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Mixture Density Networks</title>
+      <link>https://diningphil.github.io/publication/2021_icml/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_icml/</guid>
+      <description>&lt;p&gt;Combining Deep Graph Networks with Mixture Density Networks to model multimodal output distributions conditioned on arbitrary input graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 Papers at IJCNN&#39;21</title>
+      <link>https://diningphil.github.io/post/21_ijcnn/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/21_ijcnn/</guid>
+      <description>&lt;p&gt;Two papers accepted at IJCNN 2021! The first, &amp;ldquo;Modeling Edge Features with Deep Graph Bayesian Networks&amp;rdquo;, extends the Contextual Graph Markov Model to the processing of arbitrary edge features! The second, &amp;ldquo;Concept Matching for Low-resource Classification&amp;rdquo;, presents a new way to train prototypes of important words to perform classification when supervised data is limited. You can find the papers on my publication list! Congrats to all my co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Matching for Low-Resource Classification</title>
+      <link>https://diningphil.github.io/publication/2021_ijcnn_parcus/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_ijcnn_parcus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Edge Features with Deep Bayesian Graph Networks</title>
+      <link>https://diningphil.github.io/publication/2021_ijcnn_ecgmm/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_ijcnn_ecgmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual AI</title>
+      <link>https://diningphil.github.io/talk/continual-ai/</link>
+      <pubDate>Fri, 09 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/talk/continual-ai/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
 
 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM Research Zurich</title>
+      <link>https://diningphil.github.io/talk/ibm-research-zurich/</link>
+      <pubDate>Tue, 06 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/talk/ibm-research-zurich/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
 
 
+Slides can be added in a few ways:
 
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper at WWW&#39;21 Workshop</title>
+      <link>https://diningphil.github.io/post/21_workshopwww/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/21_workshopwww/</guid>
+      <description>&lt;p&gt;Together with &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt;, &lt;a href=&#34;https://andreacossu.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Cossu&lt;/a&gt;, and &lt;a href=&#34;http://pages.di.unipi.it/bacciu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davide Bacciu&lt;/a&gt;, our paper &amp;ldquo;Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification&amp;rdquo; has been accepted for publication at the &lt;a href=&#34;https://graph-learning-benchmarks.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWW&#39;21 Workshop on Graph Learning Benchmarks&lt;/a&gt;. We study whether known continual learning techniques have an impact when applied to graphs, but we also observe that structure-preserving regularization may help. Also, a structure-agnostic baseline shows strong performances in this scenario &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_HygDF6NFPB.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(again)&lt;/a&gt;, indicating that there is much to be done at the intersection of the Continual Learning and Graph Representation Learning fields!
+EDIT: it has also been selected as one of the two orals of the workshop! Great news :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper in Frontiers Molecular Biosciences</title>
+      <link>https://diningphil.github.io/post/21_pisatrento/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/21_pisatrento/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmolb.2021.637396/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;A deep graph network-enhanced sampling approach to efficiently explore the space of reduced representations of proteins&amp;rdquo;&lt;/a&gt; has been accepted for publication in Frontiers Molecular Biosciences. Together with the &lt;a href=&#34;https://twitter.com/r_potestio?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Potestio Lab&lt;/a&gt;, we trained a deep graph networks to approximate a complex measure of information retention in proteins after a coarse-graining process is applied. PDF available soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A deep graph network-enhanced sampling approach to efficiently explore the space of reduced representations of proteins</title>
+      <link>https://diningphil.github.io/publication/2021_frontiers/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_frontiers/</guid>
+      <description>&lt;p&gt;Learning complex measure of information loss in reduce representations of proteins via deep graph networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification</title>
+      <link>https://diningphil.github.io/publication/2021_grl_www/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2021_grl_www/</guid>
+      <description>&lt;p&gt;An empirical work at the intersection of Continual Learning and Graph Representation Learning. &lt;strong&gt;Selected as one of the two oral presentations&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretically Expressive and Edge-aware Graph Learning</title>
+      <link>https://diningphil.github.io/publication/2020_esann/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_esann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyDGN v0.4.0 is out!</title>
+      <link>https://diningphil.github.io/post/20_pydgn040/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/20_pydgn040/</guid>
+      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short &lt;a href=&#34;https://diningphil.github.io/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating the identification of informative reduced representations of proteins with deep learning for graphs</title>
+      <link>https://diningphil.github.io/publication/2020_pisa_trento/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_pisa_trento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Learning on Graphs via Contextual Architectures</title>
+      <link>https://diningphil.github.io/publication/2020_jmlr/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_jmlr/</guid>
+      <description>&lt;p&gt;Further studies on the Contextual Graph Markov Model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Gentle Introduction to Deep Learning for Graphs</title>
+      <link>https://diningphil.github.io/publication/2020_neunet/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_neunet/</guid>
+      <description>&lt;p&gt;A top-down approach to the field of machine learning for graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fair Comparison of Graph Neural Networks for Graph Classification</title>
+      <link>https://diningphil.github.io/publication/2020_iclr/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2020_iclr/</guid>
+      <description>&lt;p&gt;A fair and robust evaluation of Deep Graph Networks for graph classification tasks.&lt;/p&gt;
 </description>
     </item>
     
@@ -239,34 +357,81 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://diningphil.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Notes on the Reparametrization Trick</title>
+      <link>https://diningphil.github.io/project/reparamtrick/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/project/reparamtrick/</guid>
+      <description>&lt;p&gt;One of the most popular articles of the last years in the Machine Learning community is the &lt;a href=&#34;https://arxiv.org/pdf/1312.6114.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-Encoding Variational Bayes&lt;/a&gt;, which also includes the so-called reparametrization trick. Intrigued by what was sketched in the article, I decided to work out the details of this reparametrization, covering 2 of the 3 cases described (but I guess the third one can be derived from the first 2). I want to share my calculations with you. I have learned (and reviewed) a lot in the process, which was not directly related to the equations themselves. Sharing is the only way to make real progress as a community. Have a look &lt;a href=&#34;https://diningphil.github.io/media/reparamtrick_notes.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;, and please contact me in case the steps are not correct or contain imprecise notation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update, 2018-12-10&lt;/em&gt;: I have added the solution of the integrals of Appendix B. This was really useful to get familiar with the gaussian integral and Fubini&amp;rsquo;s theorem.&lt;/p&gt;
+&lt;p&gt;Special thanks to Iacopo Ripoli for his decisive and helpful insights!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://diningphil.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Derivations of SNE and t-SNE</title>
+      <link>https://diningphil.github.io/project/tsnederivation/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/project/tsnederivation/</guid>
+      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. &lt;a href=&#34;https://diningphil.github.io/media/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextual Graph Markov Model: a Deep and Generative Approach to Graph Processing</title>
+      <link>https://diningphil.github.io/publication/2018_icml/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2018_icml/</guid>
+      <description>&lt;p&gt;A deep, probabilistic, and scalable machine learning model for graphs. Work done as part of my master thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyDGN</title>
+      <link>https://diningphil.github.io/project/pydgn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/project/pydgn/</guid>
+      <description>&lt;h2 id=&#34;wikihttpsgithubcomdiningphilpydgnwiki&#34;&gt;&lt;a href=&#34;https://github.com/diningphil/PyDGN/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiki&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This is a Python library to easily experiment with &lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Graph Networks&lt;/a&gt; (DGNs). It provides automatic management of data splitting, loading and the most common experimental settings. It also handles both model selection and risk assessment procedures, by trying many different configurations in parallel (CPU).
+This repository is built upon the &lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytorch Geometric Library&lt;/a&gt;, which provides support for data management.&lt;/p&gt;
+&lt;p&gt;If you happen to use or modify this code, please remember to cite our tutorial paper:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bacciu Davide, Errica Federico, Micheli Alessio, Podda Marco: &lt;em&gt;A Gentle Introduction to Deep Learning for Graphs&lt;/em&gt;&lt;/a&gt;, Neural Networks, 2020. DOI: &lt;code&gt;10.1016/j.neunet.2020.06.006&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;If you are interested in a rigorous evaluation of Deep Graph Networks, check this out:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openreview.net/pdf?id=HygDF6NFPB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Errica Federico, Podda Marco, Bacciu Davide, Micheli Alessio: &lt;em&gt;A Fair Comparison of Graph Neural Networks for Graph Classification&lt;/em&gt;&lt;/a&gt;. &lt;em&gt;Proceedings of the 8th International Conference on Learning Representations (ICLR 2020).&lt;/em&gt; &lt;a href=&#34;https://github.com/diningphil/gnn-comparison&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;New features&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support to multiprocessing in GPU is now provided via Ray (see v0.4.0)!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation:&lt;/h2&gt;
+&lt;p&gt;(We assume &lt;strong&gt;git&lt;/strong&gt; and &lt;strong&gt;Miniconda/Anaconda&lt;/strong&gt; are installed)&lt;/p&gt;
+&lt;p&gt;First, make sure gcc 5.2.0 is installed: &lt;code&gt;conda install -c anaconda libgcc=5.2.0&lt;/code&gt;. Then, &lt;code&gt;echo $LD_LIBRARY_PATH&lt;/code&gt; should always contain &lt;code&gt;:/home/[your user name]/miniconda3/lib&lt;/code&gt;. Then run from your terminal the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;source install.sh [&amp;lt;your_cuda_version&amp;gt;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Where &lt;code&gt;&amp;lt;your_cuda_version&amp;gt;&lt;/code&gt; is an optional argument that can be either &lt;code&gt;cpu&lt;/code&gt;, &lt;code&gt;cu92&lt;/code&gt;, &lt;code&gt;cu101&lt;/code&gt;, &lt;code&gt;cu102&lt;/code&gt; or &lt;code&gt;cu110&lt;/code&gt; for Pytorch 1.7.0. If you do not provide a cuda version, the script will default to &lt;code&gt;cpu&lt;/code&gt;. The script will create a virtual environment named &lt;code&gt;pydgn&lt;/code&gt;, with all the required packages needed to run our code. &lt;strong&gt;Important:&lt;/strong&gt; do NOT run this command using &lt;code&gt;bash&lt;/code&gt; instead of &lt;code&gt;source&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;Remember that &lt;a href=&#34;https://pytorch.org/get-started/locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch MacOS Binaries dont support CUDA, install from source if CUDA is needed&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage:&lt;/h2&gt;
+&lt;h3 id=&#34;preprocess-your-dataset-see-also-wiki&#34;&gt;Preprocess your dataset (see also Wiki)&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;python build_dataset.py --config-file [your data config file]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;launch-an-experiment-in-debug-mode-see-also-wiki&#34;&gt;Launch an experiment in debug mode (see also Wiki)&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;python launch_experiment.py --config-file [your exp. config file] --splits-folder [the splits MAIN folder] --data-splits [the splits file] --data-root [root folder of your data] --dataset-name [name of the dataset] --dataset-class [class that handles the dataset] --max-cpus [max cpu parallelism] --max-gpus [max gpu parallelism] --gpus-per-task [how many gpus to allocate for each job] --final-training-runs [how many final runs when evaluating on test. Results are averaged] --result-folder [folder where to store results]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To debug your code it is useful to add &lt;code&gt;--debug&lt;/code&gt; to the command above. Notice, however, that the CLI will not work as expected here, as code will be executed sequentially. After debugging, if you need sequential execution, you can use &lt;code&gt;--max-cpus 1 --max-gpus 1 --gpus-per-task [0/1]&lt;/code&gt; without the &lt;code&gt;--debug&lt;/code&gt; option.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits:&lt;/h2&gt;
+&lt;p&gt;This is a joint project with &lt;strong&gt;Marco Podda&lt;/strong&gt; (&lt;a href=&#34;https://github.com/marcopodda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;/&lt;a href=&#34;https://sites.google.com/view/marcopodda/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;), whom I thank for his relentless dedication.&lt;/p&gt;
+&lt;p&gt;Many thanks to &lt;strong&gt;Antonio Carta&lt;/strong&gt; (&lt;a href=&#34;https://github.com/AntonioCarta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;/&lt;a href=&#34;http://pages.di.unipi.it/carta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;) for incorporating the Ray library (see v0.4.0) into PyDGN! This will be of tremendous help.&lt;/p&gt;
+&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;This research software is provided as-is&lt;/strong&gt;. We are working on this library in our spare time.&lt;/p&gt;
+&lt;p&gt;If you find a bug, please open an issue to report it, and we will do our best to solve it. For generic/technical questions, please email us rather than opening an issue.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License:&lt;/h2&gt;
+&lt;p&gt;PyDGN is GPL 3.0 licensed, as written in the LICENSE file.&lt;/p&gt;
+&lt;h2 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h2&gt;
+&lt;p&gt;If you get errors like &lt;code&gt;/lib64/libstdc++.so.6: version `GLIBCXX_3.4.21&#39; not found&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;make sure gcc 5.2.0 is installed: &lt;code&gt;conda install -c anaconda libgcc=5.2.0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;echo $LD_LIBRARY_PATH&lt;/code&gt; should contain &lt;code&gt;:/home/[your user name]/[your anaconda or miniconda folder name]/lib&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;after checking the above points, you can reinstall everything with pip using the &lt;code&gt;--no-cache-dir&lt;/code&gt; option&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
