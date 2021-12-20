@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Federico Errica</title>
+    <link>http://pages.di.unipi.it/errica/publication-type/2/</link>
+      <atom:link href="http://pages.di.unipi.it/errica/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/errica/images/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>http://pages.di.unipi.it/errica/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A deep graph network-enhanced sampling approach to efficiently explore the space of reduced representations of proteins</title>
+      <link>http://pages.di.unipi.it/errica/publication/2021_frontiers/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/publication/2021_frontiers/</guid>
+      <description>&lt;p&gt;Learning complex measure of information loss in reduce representations of proteins via deep graph networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Learning on Graphs via Contextual Architectures</title>
+      <link>http://pages.di.unipi.it/errica/publication/2020_jmlr/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/publication/2020_jmlr/</guid>
+      <description>&lt;p&gt;Further studies on the Contextual Graph Markov Model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Gentle Introduction to Deep Learning for Graphs</title>
+      <link>http://pages.di.unipi.it/errica/publication/2020_neunet/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/publication/2020_neunet/</guid>
+      <description>&lt;p&gt;A top-down approach to the field of machine learning for graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

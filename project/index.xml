@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Federico Errica</title>
+    <link>http://pages.di.unipi.it/errica/project/</link>
+      <atom:link href="http://pages.di.unipi.it/errica/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/errica/images/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://pages.di.unipi.it/errica/project/</link>
+    </image>
+    
+    <item>
+      <title>Notes on the Reparametrization Trick</title>
+      <link>http://pages.di.unipi.it/errica/project/reparamtrick/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/project/reparamtrick/</guid>
+      <description>&lt;p&gt;One of the most popular articles of the last years in the Machine Learning community is the &lt;a href=&#34;https://arxiv.org/pdf/1312.6114.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-Encoding Variational Bayes&lt;/a&gt;, which also includes the so-called reparametrization trick. Intrigued by what was sketched in the article, I decided to work out the details of this reparametrization, covering 2 of the 3 cases described (but I guess the third one can be derived from the first 2). I want to share my calculations with you. I have learned (and reviewed) a lot in the process, which was not directly related to the equations themselves. Sharing is the only way to make real progress as a community. Have a look &lt;a href=&#34;http://pages.di.unipi.it/errica/errica/media/reparamtrick_notes.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;, and please contact me in case the steps are not correct or contain imprecise notation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update, 2018-12-10&lt;/em&gt;: I have added the solution of the integrals of Appendix B. This was really useful to get familiar with the gaussian integral and Fubini&amp;rsquo;s theorem.&lt;/p&gt;
+&lt;p&gt;Special thanks to Iacopo Ripoli for his decisive and helpful insights!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Derivations of SNE and t-SNE</title>
+      <link>http://pages.di.unipi.it/errica/project/tsnederivation/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/project/tsnederivation/</guid>
+      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. &lt;a href=&#34;http://pages.di.unipi.it/errica/errica/media/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyDGN</title>
+      <link>http://pages.di.unipi.it/errica/project/pydgn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/project/pydgn/</guid>
+      <description>&lt;h2 id=&#34;wikihttpsgithubcomdiningphilpydgnwiki&#34;&gt;&lt;a href=&#34;https://github.com/diningphil/PyDGN/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiki&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This is a Python library to easily experiment with &lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Graph Networks&lt;/a&gt; (DGNs). It provides automatic management of data splitting, loading and the most common experimental settings. It also handles both model selection and risk assessment procedures, by trying many different configurations in parallel (CPU).
+This repository is built upon the &lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytorch Geometric Library&lt;/a&gt;, which provides support for data management.&lt;/p&gt;
+&lt;p&gt;If you happen to use or modify this code, please remember to cite our tutorial paper:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bacciu Davide, Errica Federico, Micheli Alessio, Podda Marco: &lt;em&gt;A Gentle Introduction to Deep Learning for Graphs&lt;/em&gt;&lt;/a&gt;, Neural Networks, 2020. DOI: &lt;code&gt;10.1016/j.neunet.2020.06.006&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;If you are interested in a rigorous evaluation of Deep Graph Networks, check this out:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openreview.net/pdf?id=HygDF6NFPB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Errica Federico, Podda Marco, Bacciu Davide, Micheli Alessio: &lt;em&gt;A Fair Comparison of Graph Neural Networks for Graph Classification&lt;/em&gt;&lt;/a&gt;. &lt;em&gt;Proceedings of the 8th International Conference on Learning Representations (ICLR 2020).&lt;/em&gt; &lt;a href=&#34;https://github.com/diningphil/gnn-comparison&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;New features&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support to multiprocessing in GPU is now provided via Ray (see v0.4.0)!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation:&lt;/h2&gt;
+&lt;p&gt;(We assume &lt;strong&gt;git&lt;/strong&gt; and &lt;strong&gt;Miniconda/Anaconda&lt;/strong&gt; are installed)&lt;/p&gt;
+&lt;p&gt;First, make sure gcc 5.2.0 is installed: &lt;code&gt;conda install -c anaconda libgcc=5.2.0&lt;/code&gt;. Then, &lt;code&gt;echo $LD_LIBRARY_PATH&lt;/code&gt; should always contain &lt;code&gt;:/home/[your user name]/miniconda3/lib&lt;/code&gt;. Then run from your terminal the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;source install.sh [&amp;lt;your_cuda_version&amp;gt;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Where &lt;code&gt;&amp;lt;your_cuda_version&amp;gt;&lt;/code&gt; is an optional argument that can be either &lt;code&gt;cpu&lt;/code&gt;, &lt;code&gt;cu92&lt;/code&gt;, &lt;code&gt;cu101&lt;/code&gt;, &lt;code&gt;cu102&lt;/code&gt; or &lt;code&gt;cu110&lt;/code&gt; for Pytorch 1.7.0. If you do not provide a cuda version, the script will default to &lt;code&gt;cpu&lt;/code&gt;. The script will create a virtual environment named &lt;code&gt;pydgn&lt;/code&gt;, with all the required packages needed to run our code. &lt;strong&gt;Important:&lt;/strong&gt; do NOT run this command using &lt;code&gt;bash&lt;/code&gt; instead of &lt;code&gt;source&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;Remember that &lt;a href=&#34;https://pytorch.org/get-started/locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch MacOS Binaries dont support CUDA, install from source if CUDA is needed&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage:&lt;/h2&gt;
+&lt;h3 id=&#34;preprocess-your-dataset-see-also-wiki&#34;&gt;Preprocess your dataset (see also Wiki)&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;python build_dataset.py --config-file [your data config file]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;launch-an-experiment-in-debug-mode-see-also-wiki&#34;&gt;Launch an experiment in debug mode (see also Wiki)&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;python launch_experiment.py --config-file [your exp. config file] --splits-folder [the splits MAIN folder] --data-splits [the splits file] --data-root [root folder of your data] --dataset-name [name of the dataset] --dataset-class [class that handles the dataset] --max-cpus [max cpu parallelism] --max-gpus [max gpu parallelism] --gpus-per-task [how many gpus to allocate for each job] --final-training-runs [how many final runs when evaluating on test. Results are averaged] --result-folder [folder where to store results]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To debug your code it is useful to add &lt;code&gt;--debug&lt;/code&gt; to the command above. Notice, however, that the CLI will not work as expected here, as code will be executed sequentially. After debugging, if you need sequential execution, you can use &lt;code&gt;--max-cpus 1 --max-gpus 1 --gpus-per-task [0/1]&lt;/code&gt; without the &lt;code&gt;--debug&lt;/code&gt; option.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits:&lt;/h2&gt;
+&lt;p&gt;This is a joint project with &lt;strong&gt;Marco Podda&lt;/strong&gt; (&lt;a href=&#34;https://github.com/marcopodda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;/&lt;a href=&#34;https://sites.google.com/view/marcopodda/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;), whom I thank for his relentless dedication.&lt;/p&gt;
+&lt;p&gt;Many thanks to &lt;strong&gt;Antonio Carta&lt;/strong&gt; (&lt;a href=&#34;https://github.com/AntonioCarta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;/&lt;a href=&#34;http://pages.di.unipi.it/carta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;) for incorporating the Ray library (see v0.4.0) into PyDGN! This will be of tremendous help.&lt;/p&gt;
+&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;This research software is provided as-is&lt;/strong&gt;. We are working on this library in our spare time.&lt;/p&gt;
+&lt;p&gt;If you find a bug, please open an issue to report it, and we will do our best to solve it. For generic/technical questions, please email us rather than opening an issue.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License:&lt;/h2&gt;
+&lt;p&gt;PyDGN is GPL 3.0 licensed, as written in the LICENSE file.&lt;/p&gt;
+&lt;h2 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h2&gt;
+&lt;p&gt;If you get errors like &lt;code&gt;/lib64/libstdc++.so.6: version `GLIBCXX_3.4.21&#39; not found&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;make sure gcc 5.2.0 is installed: &lt;code&gt;conda install -c anaconda libgcc=5.2.0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;echo $LD_LIBRARY_PATH&lt;/code&gt; should contain &lt;code&gt;:/home/[your user name]/[your anaconda or miniconda folder name]/lib&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;after checking the above points, you can reinstall everything with pip using the &lt;code&gt;--no-cache-dir&lt;/code&gt; option&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

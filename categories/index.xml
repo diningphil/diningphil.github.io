@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Federico Errica</title>
+    <link>http://pages.di.unipi.it/errica/categories/</link>
+      <atom:link href="http://pages.di.unipi.it/errica/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://pages.di.unipi.it/errica/images/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>http://pages.di.unipi.it/errica/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

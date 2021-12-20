@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Federico Errica</title>
+    <link>http://pages.di.unipi.it/errica/post/</link>
+      <atom:link href="http://pages.di.unipi.it/errica/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/errica/images/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>http://pages.di.unipi.it/errica/post/</link>
+    </image>
+    
+    <item>
+      <title>PyDGN v0.5.0 is out!</title>
+      <link>http://pages.di.unipi.it/errica/post/21_pydgn050/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/21_pydgn050/</guid>
+      <description>&lt;p&gt;We officially released the 0.5.0 version of our &lt;a href=&#34;https://github.com/diningphil/PyDGN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyDGN&lt;/a&gt; library! We have added a bunch of useful features, refactored the code, and fixed some bugs! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/numeroso/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Danilo Numeroso&lt;/a&gt; who implemented a very useful and flexible random search technique!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GMDN got accepted at ICML&#39;21!</title>
+      <link>http://pages.di.unipi.it/errica/post/21_icml/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/21_icml/</guid>
+      <description>&lt;p&gt;Wonderful news! Our paper &amp;ldquo;Graph Mixture Density Networks&amp;rdquo; has been accepted at ICML 2021! Shout out to my supervisors &lt;a href=&#34;http://pages.di.unipi.it/micheli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alessio Micheli&lt;/a&gt; and &lt;a href=&#34;http://pages.di.unipi.it/bacciu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davide Bacciu&lt;/a&gt; that made this possible. We study the problem of learning multi-modal output distributions conditioned on arbitrary input graphs. With GMDN, we can predict if there&amp;rsquo;s more than one likely outcome associated with an input graph: this is especially useful, for example, when predicting the final outcome of a pandemic when the social network is known. We will release the camera ready very soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 Papers at IJCNN&#39;21</title>
+      <link>http://pages.di.unipi.it/errica/post/21_ijcnn/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/21_ijcnn/</guid>
+      <description>&lt;p&gt;Two papers accepted at IJCNN 2021! The first, &amp;ldquo;Modeling Edge Features with Deep Graph Bayesian Networks&amp;rdquo;, extends the Contextual Graph Markov Model to the processing of arbitrary edge features! The second, &amp;ldquo;Concept Matching for Low-resource Classification&amp;rdquo;, presents a new way to train prototypes of important words to perform classification when supervised data is limited. You can find the papers on my publication list! Congrats to all my co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper at WWW&#39;21 Workshop</title>
+      <link>http://pages.di.unipi.it/errica/post/21_workshopwww/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/21_workshopwww/</guid>
+      <description>&lt;p&gt;Together with &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt;, &lt;a href=&#34;https://andreacossu.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Cossu&lt;/a&gt;, and &lt;a href=&#34;http://pages.di.unipi.it/bacciu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davide Bacciu&lt;/a&gt;, our paper &amp;ldquo;Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification&amp;rdquo; has been accepted for publication at the &lt;a href=&#34;https://graph-learning-benchmarks.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWW&#39;21 Workshop on Graph Learning Benchmarks&lt;/a&gt;. We study whether known continual learning techniques have an impact when applied to graphs, but we also observe that structure-preserving regularization may help. Also, a structure-agnostic baseline shows strong performances in this scenario &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_HygDF6NFPB.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(again)&lt;/a&gt;, indicating that there is much to be done at the intersection of the Continual Learning and Graph Representation Learning fields!
+EDIT: it has also been selected as one of the two orals of the workshop! Great news :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper in Frontiers Molecular Biosciences</title>
+      <link>http://pages.di.unipi.it/errica/post/21_pisatrento/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/21_pisatrento/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmolb.2021.637396/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;A deep graph network-enhanced sampling approach to efficiently explore the space of reduced representations of proteins&amp;rdquo;&lt;/a&gt; has been accepted for publication in Frontiers Molecular Biosciences. Together with the &lt;a href=&#34;https://twitter.com/r_potestio?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Potestio Lab&lt;/a&gt;, we trained a deep graph networks to approximate a complex measure of information retention in proteins after a coarse-graining process is applied. PDF available soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyDGN v0.4.0 is out!</title>
+      <link>http://pages.di.unipi.it/errica/post/20_pydgn040/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/errica/post/20_pydgn040/</guid>
+      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short &lt;a href=&#34;http://pages.di.unipi.it/errica/errica/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
