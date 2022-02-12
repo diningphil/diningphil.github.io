@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>special-session | Federico Errica</title>
+    <link>https://diningphil.github.io/tag/special-session/</link>
+      <atom:link href="https://diningphil.github.io/tag/special-session/index.xml" rel="self" type="application/rss+xml" />
+    <description>special-session</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <title>special-session</title>
+      <link>https://diningphil.github.io/tag/special-session/</link>
+    </image>
+    
+    <item>
+      <title>Special Session on DL4G at LOD2022</title>
+      <link>https://diningphil.github.io/post/22_lod2022/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/22_lod2022/</guid>
+      <description>&lt;p&gt;Working on Graph ML? Please consider submitting to our &lt;a href=&#34;https://lod2022.icas.cc/special-sessions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LOD2022&lt;/a&gt; special session &amp;ldquo;Recent Advances in Deep Learning for Graphs&amp;rdquo; 🎉 With a dream team of co-organizers, including the pioneers of DGNs A. Micheli and F. Scarselli! Looking forward to physically 🤝 you in the beautiful Certosa di Pontignano, Italy!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
