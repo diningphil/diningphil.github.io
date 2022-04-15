@@ -5,12 +5,30 @@
     <link>https://diningphil.github.io/publication/</link>
       <atom:link href="https://diningphil.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://diningphil.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Towards Learning Trustworthily, Automatically, and with Guarantees on Graphs: an Overview</title>
+      <link>https://diningphil.github.io/publication/2022_neurocomputing/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2022_neurocomputing/</guid>
+      <description>&lt;p&gt;An overview of the current works focused towards learning trustworthily, automatically, and with guarantees on graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catastrophic Forgetting in Deep Graph Networks: A Graph Classification Benchmark</title>
+      <link>https://diningphil.github.io/publication/2022_frontiers/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2022_frontiers/</guid>
+      <description>&lt;p&gt;We study the phenomenon of catastrophic forgetting in the graph representation learning scenario.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust Malware Classification via Deep Graph Networks on Call Graph Topologies</title>
