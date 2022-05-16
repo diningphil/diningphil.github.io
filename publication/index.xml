@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication/</link>
       <atom:link href="https://diningphil.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://diningphil.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Infinite Contextual Graph Markov Model</title>
+      <link>https://diningphil.github.io/publication/2022_icml/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2022_icml/</guid>
+      <description>&lt;p&gt;Combining Deep Graph Networks with Bayesian nonparametric techniques to unsupervised learning of node/graph representations while automatizing the choice of the hyper-parameters during training.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards Learning Trustworthily, Automatically, and with Guarantees on Graphs: an Overview</title>

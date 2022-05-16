@@ -5,12 +5,33 @@
     <link>https://diningphil.github.io/</link>
       <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Errica</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>Federico Errica</title>
       <link>https://diningphil.github.io/</link>
     </image>
+    
+    <item>
+      <title>Paper accepted at ICML 2022</title>
+      <link>https://diningphil.github.io/post/22_icgmm/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/22_icgmm/</guid>
+      <description>&lt;p&gt;After a year of hard work, rejections, good feedback, paper rewriting, and additional experiments, our Infinite Contextual Graph Markov Model has been accepted at ICML 2022!&lt;/p&gt;
+&lt;p&gt;iCGMM combines graph learning and Bayesian nonparametric to build a deep model that can decide the complexity of each of its layers and automatize the choice of its hyper-parameters during training.&lt;/p&gt;
+&lt;p&gt;Needless to say, this work wouldn&amp;rsquo;t have been possible without the incredible expertise of Daniele Castellana about BNP methods and the supervision of Davide Bacciu and Alessio Micheli. Kudos to this incredible team!&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t want to wait for the proceedings, please consider taking a look at Section 4.3 of my PhD thesis (link at the top of the homepage).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Infinite Contextual Graph Markov Model</title>
+      <link>https://diningphil.github.io/publication/2022_icml/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2022_icml/</guid>
+      <description>&lt;p&gt;Combining Deep Graph Networks with Bayesian nonparametric techniques to unsupervised learning of node/graph representations while automatizing the choice of the hyper-parameters during training.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards Learning Trustworthily, Automatically, and with Guarantees on Graphs: an Overview</title>
