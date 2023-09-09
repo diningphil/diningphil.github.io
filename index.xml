@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/</link>
       <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Errica</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>Federico Errica</title>
       <link>https://diningphil.github.io/</link>
     </image>
+    
+    <item>
+      <title>Investigating the Interplay between Features and Structures in Graph Learning</title>
+      <link>https://diningphil.github.io/publication/2023_ecml/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_ecml/</guid>
+      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper accepted at ICML 2022</title>
@@ -65,7 +74,7 @@
       <link>https://diningphil.github.io/post/22_nec/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/post/22_nec/</guid>
-      <description>&lt;p&gt;While I prepare my Ph.D. thesis&#39; defense, I have just started working for &lt;a href=&#34;https://www.neclab.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEC Laboratories Europe&lt;/a&gt; as a Research Scientist! The people and the environment are truly stimulating, stay tuned for more updates on deep learning for graphs =).&lt;/p&gt;
+      <description>&lt;p&gt;While I prepare my Ph.D. thesis&amp;rsquo; defense, I have just started working for &lt;a href=&#34;https://www.neclab.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEC Laboratories Europe&lt;/a&gt; as a Research Scientist! The people and the environment are truly stimulating, stay tuned for more updates on deep learning for graphs =).&lt;/p&gt;
 </description>
     </item>
     
