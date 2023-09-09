@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/0/</link>
       <atom:link href="https://diningphil.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://diningphil.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks</title>
+      <link>https://diningphil.github.io/publication/2023_gspn/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_gspn/</guid>
+      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification</title>
