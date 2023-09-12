@@ -26,7 +26,8 @@
       <link>https://diningphil.github.io/publication/2023_gspn/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/publication/2023_gspn/</guid>
-      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+      <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to
+tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
 </description>
     </item>
     
