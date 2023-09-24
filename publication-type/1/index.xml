@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/1/</link>
       <atom:link href="https://diningphil.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://diningphil.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data</title>
+      <link>https://diningphil.github.io/publication/2023_neurips/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_neurips/</guid>
+      <description>&lt;p&gt;In this paper I try to address the following question: &amp;ldquo;Is it really worth to build a k-Nearest Neighbor graph from tabular data and then apply deep graph nets on top of it to classify each sample in the table?&amp;rdquo; This is something people tend to do, and I have always been skeptical about it. Now we have a very good indication, which I also tried to justify theoretically, that a k-NN graph is not the best structure to use if we want to gain some real advantages (under some mild conditions). I also argue that new methods of building synthetic graphs are necessary if we want to exploit some &amp;ldquo;latent&amp;rdquo; structure between the samples of a dataset.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Investigating the Interplay between Features and Structures in Graph Learning</title>
