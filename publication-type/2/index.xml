@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/2/</link>
       <atom:link href="https://diningphil.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://diningphil.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>PyDGN: a Python Library for Flexible and Reproducible Research on Deep Learning for Graphs</title>
+      <link>https://diningphil.github.io/publication/2023_joss/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_joss/</guid>
+      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards Learning Trustworthily, Automatically, and with Guarantees on Graphs: an Overview</title>

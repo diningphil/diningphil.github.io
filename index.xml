@@ -5,12 +5,30 @@
     <link>https://diningphil.github.io/</link>
       <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Errica</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>Federico Errica</title>
       <link>https://diningphil.github.io/</link>
     </image>
+    
+    <item>
+      <title>Hidden Markov Models for Temporal Graph Representation Learning</title>
+      <link>https://diningphil.github.io/publication/2023_esann/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_esann/</guid>
+      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyDGN: a Python Library for Flexible and Reproducible Research on Deep Learning for Graphs</title>
+      <link>https://diningphil.github.io/publication/2023_joss/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_joss/</guid>
+      <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data</title>
@@ -37,6 +55,16 @@
       <guid>https://diningphil.github.io/publication/2023_gspn/</guid>
       <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to
 tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyDGN accepted in JOSS !</title>
+      <link>https://diningphil.github.io/post/23_joss/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/23_joss/</guid>
+      <description>&lt;p&gt;PyDGN just got accepted in Journal of Open Source Software =)&lt;/p&gt;
+&lt;p&gt;I have to say, compared to other prestigious journals, I got much more constructive feedback and the review process was faster and transparent. Thank you to the editor and the reviewers!&lt;/p&gt;
 </description>
     </item>
     
