@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Self-Tuning Hamiltonian Monte Carlo for Accelerated Sampling</title>
+      <link>https://diningphil.github.io/publication/2023_jcp/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_jcp/</guid>
+      <description>&lt;p&gt;In this paper we accelerate HMC simulations by learning atom-dependent timesteps and the number of molecular dynamics steps! With an appropriate choice of the loss, we can significantly speed up simulations and reduce autocorrelation times by 25% on alanine dipeptide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hidden Markov Models for Temporal Graph Representation Learning</title>
       <link>https://diningphil.github.io/publication/2023_esann/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>

@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/2/</link>
       <atom:link href="https://diningphil.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://diningphil.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Self-Tuning Hamiltonian Monte Carlo for Accelerated Sampling</title>
+      <link>https://diningphil.github.io/publication/2023_jcp/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_jcp/</guid>
+      <description>&lt;p&gt;In this paper we accelerate HMC simulations by learning atom-dependent timesteps and the number of molecular dynamics steps! With an appropriate choice of the loss, we can significantly speed up simulations and reduce autocorrelation times by 25% on alanine dipeptide.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PyDGN: a Python Library for Flexible and Reproducible Research on Deep Learning for Graphs</title>

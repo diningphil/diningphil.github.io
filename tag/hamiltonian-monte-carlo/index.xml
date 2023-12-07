@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamiltonian Monte Carlo | Federico Errica</title>
+    <link>https://diningphil.github.io/tag/hamiltonian-monte-carlo/</link>
+      <atom:link href="https://diningphil.github.io/tag/hamiltonian-monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamiltonian Monte Carlo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <title>Hamiltonian Monte Carlo</title>
+      <link>https://diningphil.github.io/tag/hamiltonian-monte-carlo/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted at JCP!!</title>
+      <link>https://diningphil.github.io/post/23_jcp/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/23_jcp/</guid>
+      <description>&lt;p&gt;Our work on learning to accelerate Hamiltonian Monte Carlo simulations has been accepted at the Journal of Chemical Physics! Shout out to my colleagues Henrik and Francesco for the hard work =)&lt;/p&gt;
+&lt;p&gt;Stay tuned for more work on machine learning for the computational sciences =).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

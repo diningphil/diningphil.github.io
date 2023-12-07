@@ -22,6 +22,25 @@
     </item>
     
     <item>
+      <title>Paper accepted at JCP!!</title>
+      <link>https://diningphil.github.io/post/23_jcp/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/23_jcp/</guid>
+      <description>&lt;p&gt;Our work on learning to accelerate Hamiltonian Monte Carlo simulations has been accepted at the Journal of Chemical Physics! Shout out to my colleagues Henrik and Francesco for the hard work =)&lt;/p&gt;
+&lt;p&gt;Stay tuned for more work on machine learning for the computational sciences =).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Tuning Hamiltonian Monte Carlo for Accelerated Sampling</title>
+      <link>https://diningphil.github.io/publication/2023_jcp/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2023_jcp/</guid>
+      <description>&lt;p&gt;In this paper we accelerate HMC simulations by learning atom-dependent timesteps and the number of molecular dynamics steps! With an appropriate choice of the loss, we can significantly speed up simulations and reduce autocorrelation times by 25% on alanine dipeptide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hidden Markov Models for Temporal Graph Representation Learning</title>
       <link>https://diningphil.github.io/publication/2023_esann/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
@@ -31,11 +50,30 @@
     </item>
     
     <item>
+      <title>PyDGN accepted in JOSS !</title>
+      <link>https://diningphil.github.io/post/23_joss/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/23_joss/</guid>
+      <description>&lt;p&gt;PyDGN just got accepted in Journal of Open Source Software =)&lt;/p&gt;
+&lt;p&gt;I have to say, compared to other prestigious journals, I got much more constructive feedback and the review process was faster and transparent. Thank you to the editor and the reviewers!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PyDGN: a Python Library for Flexible and Reproducible Research on Deep Learning for Graphs</title>
       <link>https://diningphil.github.io/publication/2023_joss/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/publication/2023_joss/</guid>
       <description>&lt;p&gt;This is a Python library to easily experiment with Deep Graph Networks (DGNs). It provides automatic management of data splitting, loading and common experimental settings. It also handles both model selection and risk assessment procedures, by trying many different configurations in parallel (CPU or GPU).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at NeurIPS 2023!!</title>
+      <link>https://diningphil.github.io/post/23_neurips/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/23_neurips/</guid>
+      <description>&lt;p&gt;I am really excited: my very first single-author paper has been accepted at NeurIPS 2023! I still can&amp;rsquo;t believe that I managed to pull this off, especially after submitting it for the first time =) give it a few weeks for the papers to be released on OpenReview!&lt;/p&gt;
 </description>
     </item>
     
@@ -55,25 +93,6 @@
       <guid>https://diningphil.github.io/publication/2023_gspn/</guid>
       <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to
 tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PyDGN accepted in JOSS !</title>
-      <link>https://diningphil.github.io/post/23_joss/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/post/23_joss/</guid>
-      <description>&lt;p&gt;PyDGN just got accepted in Journal of Open Source Software =)&lt;/p&gt;
-&lt;p&gt;I have to say, compared to other prestigious journals, I got much more constructive feedback and the review process was faster and transparent. Thank you to the editor and the reviewers!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at NeurIPS 2023!!</title>
-      <link>https://diningphil.github.io/post/23_neurips/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/post/23_neurips/</guid>
-      <description>&lt;p&gt;I am really excited: my very first single-author paper has been accepted at NeurIPS 2023! I still can&amp;rsquo;t believe that I managed to pull this off, especially after submitting it for the first time =) give it a few weeks for the papers to be released on OpenReview!&lt;/p&gt;
 </description>
     </item>
     
