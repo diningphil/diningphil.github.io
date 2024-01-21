@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/post/</link>
       <atom:link href="https://diningphil.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://diningphil.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Paper accepted at ICLR 2024!!</title>
+      <link>https://diningphil.github.io/post/24_iclr/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/24_iclr/</guid>
+      <description>&lt;p&gt;Graph-Induced Sum-Product Networks have been (finally!) accepted at ICLR 2024! Blog post coming in the following months&amp;hellip; stay tuned! Special thanks to Mathias Niepert for his relentless support =).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper accepted at JCP!!</title>
@@ -122,7 +131,10 @@ EDIT: it has also been selected as one of the two orals of the workshop! Great n
       <link>https://diningphil.github.io/post/20_pydgn040/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/post/20_pydgn040/</guid>
-      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short &lt;a href=&#34;https://diningphil.github.io/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
+      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short 
+
+&lt;a href=&#34;https://diningphil.github.io/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;
+. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
 </description>
     </item>
     

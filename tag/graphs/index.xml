@@ -5,9 +5,9 @@
     <link>https://diningphil.github.io/tag/graphs/</link>
       <atom:link href="https://diningphil.github.io/tag/graphs/index.xml" rel="self" type="application/rss+xml" />
     <description>Graphs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Graphs</title>
       <link>https://diningphil.github.io/tag/graphs/</link>
     </image>
@@ -17,7 +17,7 @@
       <link>https://diningphil.github.io/project/pydgn/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/project/pydgn/</guid>
-      <description>&lt;h2 id=&#34;wikihttpsgithubcomdiningphilpydgnwiki&#34;&gt;&lt;a href=&#34;https://github.com/diningphil/PyDGN/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiki&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;documentationhttpspydgnreadthedocsioenlatest&#34;&gt;&lt;a href=&#34;https://pydgn.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;This is a Python library to easily experiment with &lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Graph Networks&lt;/a&gt; (DGNs). It provides automatic management of data splitting, loading and the most common experimental settings. It also handles both model selection and risk assessment procedures, by trying many different configurations in parallel (CPU).
 This repository is built upon the &lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytorch Geometric Library&lt;/a&gt;, which provides support for data management.&lt;/p&gt;

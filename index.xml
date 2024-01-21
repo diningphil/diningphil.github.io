@@ -5,12 +5,30 @@
     <link>https://diningphil.github.io/</link>
       <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Errica</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Federico Errica</title>
       <link>https://diningphil.github.io/</link>
     </image>
+    
+    <item>
+      <title>Paper accepted at ICLR 2024!!</title>
+      <link>https://diningphil.github.io/post/24_iclr/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/24_iclr/</guid>
+      <description>&lt;p&gt;Graph-Induced Sum-Product Networks have been (finally!) accepted at ICLR 2024! Blog post coming in the following months&amp;hellip; stay tuned! Special thanks to Mathias Niepert for his relentless support =).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks</title>
+      <link>https://diningphil.github.io/publication/2024_iclr/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_iclr/</guid>
+      <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data</title>
@@ -83,16 +101,6 @@
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/publication/2023_ecml/</guid>
       <description>&lt;p&gt;We investigate the quality of quantitative measures that assess the utility of a graph structure for node classification tasks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks</title>
-      <link>https://diningphil.github.io/publication/2023_gspn/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/publication/2023_gspn/</guid>
-      <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to
-tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
 </description>
     </item>
     
@@ -175,7 +183,9 @@ tractably answer probabilistic queries. Our Graph-induced Sum-Product Network ca
       <link>https://diningphil.github.io/talk/nec-labs-europe/</link>
       <pubDate>Wed, 21 Jul 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/nec-labs-europe/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -240,7 +250,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://diningphil.github.io/talk/continual-ai/</link>
       <pubDate>Fri, 09 Apr 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/continual-ai/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -262,7 +274,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://diningphil.github.io/talk/ibm-research-zurich/</link>
       <pubDate>Tue, 06 Apr 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/ibm-research-zurich/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -329,7 +343,10 @@ EDIT: it has also been selected as one of the two orals of the workshop! Great n
       <link>https://diningphil.github.io/post/20_pydgn040/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/post/20_pydgn040/</guid>
-      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short &lt;a href=&#34;https://diningphil.github.io/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
+      <description>&lt;p&gt;We officially released the 0.4.0 version of our PyDGN library! In the past few months the library has become more mature, and I summarized its main features in this short 
+
+&lt;a href=&#34;https://diningphil.github.io/media/PyDGNv0_4_0-intro-slides.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;
+. Version 0.4.0 features the addition of the Ray library to handle multiprocessing as well as distributed computing! To make an example, you can run parallel experiments on your local laptop, on different GPUs at the same time or even on a cluster of machines! Special thanks to &lt;a href=&#34;http://pages.di.unipi.it/carta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Antonio Carta&lt;/a&gt; who made a wonderful porting of Ray into PyDGN! Now…back to research! :)&lt;/p&gt;
 </description>
     </item>
     
@@ -373,8 +390,8 @@ EDIT: it has also been selected as one of the two orals of the workshop! Great n
       <link>https://diningphil.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -394,17 +411,16 @@ EDIT: it has also been selected as one of the two orals of the workshop! Great n
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -414,19 +430,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   One 
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
+  Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -437,12 +452,12 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -476,24 +491,22 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -502,7 +515,10 @@ $$&lt;/p&gt;
       <link>https://diningphil.github.io/project/reparamtrick/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/project/reparamtrick/</guid>
-      <description>&lt;p&gt;One of the most popular articles of the last years in the Machine Learning community is the &lt;a href=&#34;https://arxiv.org/pdf/1312.6114.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-Encoding Variational Bayes&lt;/a&gt;, which also includes the so-called reparametrization trick. Intrigued by what was sketched in the article, I decided to work out the details of this reparametrization, covering 2 of the 3 cases described (but I guess the third one can be derived from the first 2). I want to share my calculations with you. I have learned (and reviewed) a lot in the process, which was not directly related to the equations themselves. Sharing is the only way to make real progress as a community. Have a look &lt;a href=&#34;https://diningphil.github.io/media/reparamtrick_notes.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;, and please contact me in case the steps are not correct or contain imprecise notation.&lt;/p&gt;
+      <description>&lt;p&gt;One of the most popular articles of the last years in the Machine Learning community is the &lt;a href=&#34;https://arxiv.org/pdf/1312.6114.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-Encoding Variational Bayes&lt;/a&gt;, which also includes the so-called reparametrization trick. Intrigued by what was sketched in the article, I decided to work out the details of this reparametrization, covering 2 of the 3 cases described (but I guess the third one can be derived from the first 2). I want to share my calculations with you. I have learned (and reviewed) a lot in the process, which was not directly related to the equations themselves. Sharing is the only way to make real progress as a community. Have a look 
+
+&lt;a href=&#34;https://diningphil.github.io/uploads/reparamtrick_notes.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;
+, and please contact me in case the steps are not correct or contain imprecise notation.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Update, 2018-12-10&lt;/em&gt;: I have added the solution of the integrals of Appendix B. This was really useful to get familiar with the gaussian integral and Fubini&amp;rsquo;s theorem.&lt;/p&gt;
 &lt;p&gt;Special thanks to Iacopo Ripoli for his decisive and helpful insights!&lt;/p&gt;
 </description>
@@ -513,7 +529,10 @@ $$&lt;/p&gt;
       <link>https://diningphil.github.io/project/tsnederivation/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/project/tsnederivation/</guid>
-      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. &lt;a href=&#34;https://diningphil.github.io/media/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
+      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. 
+
+&lt;a href=&#34;https://diningphil.github.io/uploads/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;
+ you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
 </description>
     </item>
     
@@ -531,7 +550,7 @@ $$&lt;/p&gt;
       <link>https://diningphil.github.io/project/pydgn/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/project/pydgn/</guid>
-      <description>&lt;h2 id=&#34;wikihttpsgithubcomdiningphilpydgnwiki&#34;&gt;&lt;a href=&#34;https://github.com/diningphil/PyDGN/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wiki&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;documentationhttpspydgnreadthedocsioenlatest&#34;&gt;&lt;a href=&#34;https://pydgn.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;This is a Python library to easily experiment with &lt;a href=&#34;https://arxiv.org/abs/1912.12693&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Graph Networks&lt;/a&gt; (DGNs). It provides automatic management of data splitting, loading and the most common experimental settings. It also handles both model selection and risk assessment procedures, by trying many different configurations in parallel (CPU).
 This repository is built upon the &lt;a href=&#34;https://pytorch-geometric.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytorch Geometric Library&lt;/a&gt;, which provides support for data management.&lt;/p&gt;
@@ -574,14 +593,6 @@ This repository is built upon the &lt;a href=&#34;https://pytorch-geometric.read
 &lt;li&gt;after checking the above points, you can reinstall everything with pip using the &lt;code&gt;--no-cache-dir&lt;/code&gt; option&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diningphil.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -5,9 +5,9 @@
     <link>https://diningphil.github.io/event/</link>
       <atom:link href="https://diningphil.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://diningphil.github.io/event/</link>
     </image>
@@ -17,7 +17,9 @@
       <link>https://diningphil.github.io/talk/nec-labs-europe/</link>
       <pubDate>Wed, 21 Jul 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/nec-labs-europe/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -39,7 +41,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://diningphil.github.io/talk/continual-ai/</link>
       <pubDate>Fri, 09 Apr 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/continual-ai/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -61,7 +65,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://diningphil.github.io/talk/ibm-research-zurich/</link>
       <pubDate>Tue, 06 Apr 2021 13:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/talk/ibm-research-zurich/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;

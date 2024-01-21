@@ -5,9 +5,9 @@
     <link>https://diningphil.github.io/tag/dimensionality-reduction/</link>
       <atom:link href="https://diningphil.github.io/tag/dimensionality-reduction/index.xml" rel="self" type="application/rss+xml" />
     <description>Dimensionality Reduction</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Dimensionality Reduction</title>
       <link>https://diningphil.github.io/tag/dimensionality-reduction/</link>
     </image>
@@ -17,7 +17,10 @@
       <link>https://diningphil.github.io/project/tsnederivation/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://diningphil.github.io/project/tsnederivation/</guid>
-      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. &lt;a href=&#34;https://diningphil.github.io/media/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
+      <description>&lt;p&gt;Recently I was looking at Stochastic Neigbhor Embedding &lt;a href=&#34;https://papers.nips.cc/paper/2276-stochastic-neighbor-embedding.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SNE)&lt;/a&gt; and its t-distributed version &lt;a href=&#34;http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(t-SNE)&lt;/a&gt;, but I could not find the exact steps to derive the gradient of the loss function (there are small errors in the t-SNE article and no info in the SNE one), so I decided to carry on the derivation and share it. I hope this can be of any help to those who are studying the same topic. 
+
+&lt;a href=&#34;https://diningphil.github.io/uploads/sne_tsne.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt;
+ you find the pdf: please let me know if you spot an error! (Picture taken from t-SNE paper)&lt;/p&gt;
 </description>
     </item>
     

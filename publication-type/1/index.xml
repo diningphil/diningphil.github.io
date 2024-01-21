@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/1/</link>
       <atom:link href="https://diningphil.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://diningphil.github.io/media/icon_hu811ba3e0cc5bb0ab65be55bc8716bf2a_48188_512x512_fill_lanczos_center_3.png</url>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://diningphil.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks</title>
+      <link>https://diningphil.github.io/publication/2024_iclr/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_iclr/</guid>
+      <description>&lt;p&gt;We propose a probabilistic model that bridges graph machine learning and sum-product networks to tractably answer probabilistic queries. Our Graph-induced Sum-Product Network can solve unsupervised and supervised graph tasks and it is especially effective in modeling the missing data distribution as well as exploiting unlabeled data in a scarce supervision scenario.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data</title>
