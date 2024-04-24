@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temporal Knowledge Graphs | Federico Errica</title>
+    <link>https://diningphil.github.io/tag/temporal-knowledge-graphs/</link>
+      <atom:link href="https://diningphil.github.io/tag/temporal-knowledge-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temporal Knowledge Graphs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Temporal Knowledge Graphs</title>
+      <link>https://diningphil.github.io/tag/temporal-knowledge-graphs/</link>
+    </image>
+    
+    <item>
+      <title>History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting</title>
+      <link>https://diningphil.github.io/publication/2024_ijcai/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_ijcai/</guid>
+      <description>&lt;p&gt;We propose a temporal knowledge graph baseline based on the simple principle of recurrency. Surprisingly, a simple approach like this beats state of the art methods based on representation learning on 3 out of 5 commonly used datasets!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at IJCAI 2024!!</title>
+      <link>https://diningphil.github.io/post/24_ijcai/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/24_ijcai/</guid>
+      <description>&lt;p&gt;Did you know a simple recurrency baseline is enough to beat complex state of the
+art methods for temporal knowledge graph forecasting? If not, you should check our upcoming IJCAI paper! Shout out to Julia for driving this work!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication/</link>
       <atom:link href="https://diningphil.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://diningphil.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting</title>
+      <link>https://diningphil.github.io/publication/2024_ijcai/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_ijcai/</guid>
+      <description>&lt;p&gt;We propose a temporal knowledge graph baseline based on the simple principle of recurrency. Surprisingly, a simple approach like this beats state of the art methods based on representation learning on 3 out of 5 commonly used datasets!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks</title>

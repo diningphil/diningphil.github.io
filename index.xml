@@ -13,6 +13,25 @@
     </image>
     
     <item>
+      <title>History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting</title>
+      <link>https://diningphil.github.io/publication/2024_ijcai/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_ijcai/</guid>
+      <description>&lt;p&gt;We propose a temporal knowledge graph baseline based on the simple principle of recurrency. Surprisingly, a simple approach like this beats state of the art methods based on representation learning on 3 out of 5 commonly used datasets!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at IJCAI 2024!!</title>
+      <link>https://diningphil.github.io/post/24_ijcai/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/24_ijcai/</guid>
+      <description>&lt;p&gt;Did you know a simple recurrency baseline is enough to beat complex state of the
+art methods for temporal knowledge graph forecasting? If not, you should check our upcoming IJCAI paper! Shout out to Julia for driving this work!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>University of Stuttgart</title>
       <link>https://diningphil.github.io/talk/university-of-stuttgart/</link>
       <pubDate>Sun, 07 Apr 2024 13:00:00 +0000</pubDate>
