@@ -277,5 +277,17 @@
     <loc>https://diningphil.github.io/publication/2018_icml/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diningphil.github.io/tag/active-learning/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diningphil.github.io/tag/molecular-dynamics/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diningphil.github.io/post/24_npj/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://diningphil.github.io/publication/2024_npj/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -205,5 +205,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials</title>
+      <link>https://diningphil.github.io/publication/2024_npj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_npj/</guid>
+      <description>&lt;p&gt;In this paper we combine uncertainty-biased molecular dynamics with active learning to show how we can learn machine learning interatomic potential (MLIP) models that are more robust to predictions on extrapolative regions.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
