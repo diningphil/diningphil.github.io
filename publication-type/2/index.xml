@@ -5,12 +5,21 @@
     <link>https://diningphil.github.io/publication-type/2/</link>
       <atom:link href="https://diningphil.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diningphil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://diningphil.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Higher-Rank Irreducible Cartesian Tensors for Equivariant Message Passing</title>
+      <link>https://diningphil.github.io/publication/2024_neurips/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_neurips/</guid>
+      <description>&lt;p&gt;In this paper I try to address the following question: &amp;ldquo;Is it really worth to build a k-Nearest Neighbor graph from tabular data and then apply deep graph nets on top of it to classify each sample in the table?&amp;rdquo; This is something people tend to do, and I have always been skeptical about it. Now we have a very good indication, which I also tried to justify theoretically, that a k-NN graph is not the best structure to use if we want to gain some real advantages (under some mild conditions). I also argue that new methods of building synthetic graphs are necessary if we want to exploit some &amp;ldquo;latent&amp;rdquo; structure between the samples of a dataset.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials</title>

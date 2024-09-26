@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Higher-Rank Irreducible Cartesian Tensors for Equivariant Message Passing</title>
+      <link>https://diningphil.github.io/publication/2024_neurips/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/publication/2024_neurips/</guid>
+      <description>&lt;p&gt;In this paper I try to address the following question: &amp;ldquo;Is it really worth to build a k-Nearest Neighbor graph from tabular data and then apply deep graph nets on top of it to classify each sample in the table?&amp;rdquo; This is something people tend to do, and I have always been skeptical about it. Now we have a very good indication, which I also tried to justify theoretically, that a k-NN graph is not the best structure to use if we want to gain some real advantages (under some mild conditions). I also argue that new methods of building synthetic graphs are necessary if we want to exploit some &amp;ldquo;latent&amp;rdquo; structure between the samples of a dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at NeurIPS 2024!!</title>
+      <link>https://diningphil.github.io/post/24_neurips/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://diningphil.github.io/post/24_neurips/</guid>
+      <description>&lt;p&gt;Did you know that you can build expressive and efficient equivariant message passing for molecular systems using Cartesian rather than Spherical tensors (e.g., MACE)? If not, it&amp;rsquo;s time to have a look at our NeurIPS 24 paper led by Viktor!! Huge congrats to him and excellent team effort!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Paper accepted at npj Computational Materials!!</title>
       <link>https://diningphil.github.io/post/24_npj/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
