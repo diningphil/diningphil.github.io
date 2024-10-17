@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federico Errica (he/him)</title>
-    <link>https://diningphil.github.io/qubt/</link>
+    <link>https://diningphil.github.io/</link>
     <description>Recent content on Federico Errica (he/him)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://diningphil.github.io/qubt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://diningphil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://diningphil.github.io/qubt/about/</link>
+      <link>https://diningphil.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diningphil.github.io/qubt/about/</guid>
+      <guid>https://diningphil.github.io/about/</guid>
       <description>I&amp;rsquo;m just a node in the graph of human relations, trying to understand my role in this world by questioning how it is that I got here. But I do it at a different physical scale.&#xA;I dare think about the work I do as art &amp;ndash; I am not the only one &amp;ndash; though I am not really an art person (sigh) and surely not a great artist. But curiosity is the driver of science, and curiosity stems from beauty.</description>
     </item>
   </channel>
